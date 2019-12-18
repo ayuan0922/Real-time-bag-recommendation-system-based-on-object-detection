@@ -1,0 +1,6 @@
+backpack
+cross_bag
+satchel_bag
+handbag
+fanny_pack
+strap
