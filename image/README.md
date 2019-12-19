@@ -1,2 +1,2 @@
 
-The products of the processing of web crawler will be stored in this folder.
+The pictures which are downloaded during the process of web crawler will be stored in this folder.
